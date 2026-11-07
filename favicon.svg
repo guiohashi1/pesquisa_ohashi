@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ohashi Yakisoba">
+  <rect width="64" height="64" rx="14" fill="#090909"/>
+  <!-- bowl -->
+  <ellipse cx="32" cy="42" rx="18" ry="7" fill="#141414"/>
+  <path d="M14 34c0 10 8 18 18 18s18-8 18-18" fill="#1c1c1c"/>
+  <ellipse cx="32" cy="33.5" rx="18" ry="7.5" fill="#222"/>
+  <!-- noodles -->
+  <path d="M18 32c4-4 8-1 12-3s7-4 12-1c3 2 5 4 6 6-3 2-7 1-11 2s-8 3-13 1c-3-1-5-3-6-5z" fill="#e8a84a"/>
+  <path d="M20 35c5-3 9 0 13-2s8-3 12 0" fill="none" stroke="#f3c06a" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M19 37c6-2 10 1 14-1s9-2 12 1" fill="none" stroke="#d4923a" stroke-width="1.4" stroke-linecap="round"/>
+  <!-- chili + green onion -->
+  <path d="M24 33l6 1.5" stroke="#ed171f" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M38 32l5 2" stroke="#ed171f" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="33" cy="31.5" r="1.8" fill="none" stroke="#3a9a4a" stroke-width="1.4"/>
+  <!-- chopsticks -->
+  <path d="M12 46l40-28" stroke="#ed171f" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M16 48l40-28" stroke="#ed171f" stroke-width="3.2" stroke-linecap="round"/>
+</svg>
